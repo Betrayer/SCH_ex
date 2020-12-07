@@ -1,0 +1,18 @@
+.headerWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 20px;
+    margin-bottom: 47px;
+}
+
+.downloadButton {
+    width: 130px;
+    height: 33px;
+    font-family: Stolzl;
+    padding: 17,54px;
+    border-radius: 7px;
+    outline: none;
+    background: linear-gradient(270.22deg, #e3e3e3 15.57%, #f2f2f2 88.79%);
+    border-color: transparent;
+}
