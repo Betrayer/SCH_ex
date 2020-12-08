@@ -71,6 +71,10 @@ const ContentSecondPage = () => {
                 <div>Система</div>
                 <div>Захисту</div>
             </div>
+            <div className={css.defenseLevels}>
+                1
+                <div className={css.defenseOverlayText}></div>
+            </div>
         </React.Fragment>
     )
 }

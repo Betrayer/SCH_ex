@@ -54,3 +54,15 @@
 .defensePromo :first-child {
     color: #2b74e3;
 }
+
+.defenseLevels {
+    width: 195px;
+    height: 195px;
+    background: linear-gradient(270.22deg, #e3e3e3 15.57%, #f2f2f2 88.79%);
+    border-radius: 13px;
+    font-size: 195px;
+    font-weight: 700;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.34)
+}
+

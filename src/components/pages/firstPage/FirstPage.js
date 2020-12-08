@@ -5,12 +5,14 @@ import Header from '../../header/Header';
 import Content from '../../content/Content';
 
 
+
 const FirstPage = () => {
 
     return (
         <React.Fragment>
             <Header />
             <Content />
+    
         </React.Fragment>
         
     )
